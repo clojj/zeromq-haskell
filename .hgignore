@@ -1,5 +1,0 @@
-^(?:dist|test/perf/(?:local|remote)_(?:lat|thr))$
-\.(?:hi|o|orig|rej)$
-~$
-syntax: glob
-.\#*
